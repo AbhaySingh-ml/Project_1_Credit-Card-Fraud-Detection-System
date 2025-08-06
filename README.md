@@ -157,16 +157,16 @@ credit-card-fraud-detection/
 
 ## 📌 Tasks and To-Do List
 
-- [ ] Perform EDA + class imbalance analysis
-- [ ] Train base models with imbalance handling
-- [ ] Create ensemble model with hyperparameter tuning
-- [ ] Integrate SHAP for explainability
-- [ ] Build Streamlit app for live prediction
-- [ ] Add user behavioral anomaly module
-- [ ] Add time-aware features and insights
-- [ ] Evaluate business cost impact
-- [ ] Document everything clearly
-- [ ] Push clean code and report to GitHub
+- ✅ Perform EDA + class imbalance analysis
+- ✅ Train base models with imbalance handling
+- ✅ Create ensemble model with hyperparameter tuning
+- ✅ Integrate SHAP for explainability
+- ✅ Build Streamlit app for live prediction
+- ✅ Add user behavioral anomaly module
+- ✅ Add time-aware features and insights
+- ✅ Evaluate business cost impact
+- ✅ Document everything clearly
+- ✅ Push clean code and report to GitHub
 
 ---
 
